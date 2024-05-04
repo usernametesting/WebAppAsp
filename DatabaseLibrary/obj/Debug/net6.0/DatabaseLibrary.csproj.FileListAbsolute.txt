@@ -1,0 +1,17 @@
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.AssemblyInfoInputs.cache
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.AssemblyInfo.cs
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.deps.json
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.dll
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\bin\Debug\net6.0\DatabaseLibrary.pdb
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\bin\Debug\net6.0\Models.dll
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\bin\Debug\net6.0\Sevices.dll
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\bin\Debug\net6.0\Models.pdb
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\bin\Debug\net6.0\Sevices.pdb
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.csproj.AssemblyReference.cache
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\Database.4913601D.Up2Date
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.dll
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\refint\DatabaseLibrary.dll
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\DatabaseLibrary.pdb
+C:\Users\a.parvin\source\repos\WebApplication2\DatabaseLibrary\obj\Debug\net6.0\ref\DatabaseLibrary.dll

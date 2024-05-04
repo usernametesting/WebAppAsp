@@ -1,0 +1,12 @@
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\obj\Debug\net6.0\Sevices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\obj\Debug\net6.0\Sevices.AssemblyInfoInputs.cache
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\obj\Debug\net6.0\Sevices.AssemblyInfo.cs
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\obj\Debug\net6.0\Sevices.csproj.CoreCompileInputs.cache
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\obj\Debug\net6.0\Sevices.csproj.AssemblyReference.cache
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\bin\Debug\net6.0\Sevices.deps.json
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\bin\Debug\net6.0\Sevices.dll
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\bin\Debug\net6.0\Sevices.pdb
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\obj\Debug\net6.0\Sevices.dll
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\obj\Debug\net6.0\refint\Sevices.dll
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\obj\Debug\net6.0\Sevices.pdb
+C:\Users\a.parvin\source\repos\WebApplication2\Sevices\obj\Debug\net6.0\ref\Sevices.dll

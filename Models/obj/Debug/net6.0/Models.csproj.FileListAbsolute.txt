@@ -1,0 +1,15 @@
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\a.parvin\source\repos\WebApplication2\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\a.parvin\source\repos\WebApplication2\Models\bin\Debug\net6.0\Models.dll
+C:\Users\a.parvin\source\repos\WebApplication2\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\a.parvin\source\repos\WebApplication2\Models\bin\Debug\net6.0\Sevices.dll
+C:\Users\a.parvin\source\repos\WebApplication2\Models\bin\Debug\net6.0\Sevices.pdb
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\Models.csproj.Up2Date
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\Models.dll
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\a.parvin\source\repos\WebApplication2\Models\obj\Debug\net6.0\ref\Models.dll
